@@ -10,6 +10,4 @@ El curso de Lenguajes y Autómatas I es fundamental en el área de ciencias de l
 
 El contenido de este repositorio incluye:
 
-- Actividades dejadas por el profesor en clase.
-- Ejercicios prácticos.
-- Proyectos relacionados con el curso.
+- [Tarea 1.1](https://github.com/UrielAhumada/Lenguajes_Automatas1/)
