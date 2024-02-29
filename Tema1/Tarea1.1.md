@@ -12,7 +12,7 @@
 | Noam Chomsky     | Propuso la Jerarquía de Chomsky, clasificando los lenguajes formales en tipos según su complejidad. Desarrolló la gramática generativa, una teoría que describe la estructura de los lenguajes naturales.| <img src="https://www.premiosfronterasdelconocimiento.es/wp-content/uploads/sites/2/2019/11/Chomnsky_1000x1140.jpg" alt="Noam Chomskyn" width="150" height="100">        |
 
 ## Conclusión
-Cada uno de estos investigadores ha dejado un impacto significativo en el campo de la teoría de autómatas y disciplinas relacionadas. Desde los fundamentos establecidos por Alan Turing y Alonzo Church hasta los avances modernos en inteligencia artificial impulsados por John McCarthy y Marvin Minsky, estos expertos han contribuido al entendimiento y desarrollo de la computación y los sistemas autónomos de manera fundamental.
+Cada uno de estos investigadores ha dejado un impacto significativo en el campo de la teoría de autómatas y disciplinas relacionadas. Estos expertos han contribuido al entendimiento y desarrollo de la computación y los sistemas autónomos de manera fundamental.
 
 ## Referencias
 - *Prezi, A. C. S. O. (s. f.-b). HISTORIA y EVOLUCIÓN DE LA TEORÍA DE AUTÓMATAS y LENGUAJES f. prezi.com. https://prezi.com/3bgywspgxblf/historia-y-evolucion-de-la-teoria-de-automatas-y-lenguajes-f/*
