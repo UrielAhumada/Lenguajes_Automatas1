@@ -1,21 +1,6 @@
-# Titulo 1
-
-## Titulo 2
-
-**negritas**
-
-*cursivo*
-
-***negitas cursiva*** 
-
-<img src="" with="">
+# Lenguajes y Automatas I
 
 ---
-Encajonar texto
+## Repositorio de la materia
+Este repositorio muestra los trabajos generados durante el curso de ***Lenguajes y Automatas I*** 
 ---
-
-- elemento1
-- elemento2
-
-1. elemento1
-2. elemento2
