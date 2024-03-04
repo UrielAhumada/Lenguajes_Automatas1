@@ -2,7 +2,7 @@
 
 ## Mapa conceptual de las fases de un compilador
 
-<img src="https://drive.google.com/file/d/10vBT37TDQT8dwwzoPyxZTrdnOcSNJZZv/view?usp=drive_link" with=100%>
+[Mapa Conseptual](https://drive.google.com/file/d/10vBT37TDQT8dwwzoPyxZTrdnOcSNJZZv/view?usp=sharing)
 
 ## Conclusion 
 
