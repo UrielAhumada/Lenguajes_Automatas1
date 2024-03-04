@@ -10,4 +10,5 @@ El curso de Lenguajes y Autómatas I es fundamental en el área de ciencias de l
 
 El contenido de este repositorio incluye:
 
-- [Tarea 1.1 Historia y evolución de La Teoría de Autómatas y Lenguajes Formales](Tema1/Tarea1.1.md)
+- [1.1 Historia y evolución de La Teoría de Autómatas y Lenguajes Formales](Tema1/Tarea1.1.md)
+- [1.2 Fases de un compilador](Tema1/Tarea1.2.pdf)
