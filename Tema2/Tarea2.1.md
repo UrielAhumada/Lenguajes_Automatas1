@@ -53,3 +53,10 @@ La coincidencia de una contraseña es muy similar a la coincidencia de un nombre
 **Cadena que coincide:**
 myp4ssw0rd
  
+## Conclusión
+
+En el mundo de la manipulación y el análisis de texto, las expresiones regulares son una herramienta poderosa y versátil, y aprender a usarlas puede mejorar significativamente la eficiencia y la precisión de una amplia gama de aplicaciones de procesamiento de texto.
+
+## Referencias
+- *Cabrera, E. (2024, 15 marzo). RegEx 101: Guía de supervivencia para entender y usar expresiones regulares. Eudris Cabrera Personal Site. https://eudriscabrera.com/blog/2022/regex-101.html*
+- *Vasili. (2022, 23 octubre). 8 Expresiones regulares, que debes conocer. Code Envato Tuts+. https://code.tutsplus.com/es/8-regular-expressions-you-should-know--net-6149t*
