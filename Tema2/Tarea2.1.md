@@ -28,7 +28,7 @@ La importancia de las expresiones regulares radica en su versatilidad y utilidad
   
 ## Casos de Uso
 
-- Coincidiendo un nombre de usuario
+- ### Coincidiendo un nombre de usuario
 
  <img src="https://cdn.tutsplus.com/cdn-cgi/image/width=600/net/uploads/legacy/404_regularExpressions/images/username.jpg" width="50%" height="300">
 
@@ -41,7 +41,7 @@ La importancia de las expresiones regulares radica en su versatilidad y utilidad
  **Cadena que coincide:**
  mi us3r_n4m3
 
- - Coincidencia de contraseña
+ - ### Coincidencia de contraseña
  <img src="https://cdn.tutsplus.com/cdn-cgi/image/width=600/net/uploads/legacy/404_regularExpressions/images/password.jpg" width="50%" height="300">
 
  **Patrón:**
