@@ -30,7 +30,7 @@ La importancia de las expresiones regulares radica en su versatilidad y utilidad
 
 - Coincidiendo un nombre de usuario
 
- <img src="https://cdn.tutsplus.com/cdn-cgi/image/width=600/net/uploads/legacy/404_regularExpressions/images/username.jpg" width="30%" height="300">
+ <img src="https://cdn.tutsplus.com/cdn-cgi/image/width=600/net/uploads/legacy/404_regularExpressions/images/username.jpg" width="50%" height="300">
 
  **Patrón:**
  /^[a-z0-9_-]{3,16}$/
@@ -42,7 +42,7 @@ La importancia de las expresiones regulares radica en su versatilidad y utilidad
  mi us3r_n4m3
 
  - Coincidencia de contraseña
- <img src="https://cdn.tutsplus.com/cdn-cgi/image/width=600/net/uploads/legacy/404_regularExpressions/images/password.jpg" width="30%" height="300">
+ <img src="https://cdn.tutsplus.com/cdn-cgi/image/width=600/net/uploads/legacy/404_regularExpressions/images/password.jpg" width="50%" height="300">
 
  **Patrón:**
  /^[a-z0-9_-]{6,18}$/
