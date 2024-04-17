@@ -1,11 +1,17 @@
 # Tarea 2.3
 
 ## Ejercicio 1
+
 Expresión regular que valide un Password fuerte:
+
 1 minúscula
+
 1 mayúscula
+
 1 numero
+
 1 carácter especial
+
 8 caracteres de longitud
 
 *Expresion*: ^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^\da-zA-Z]).{8,}$
@@ -20,11 +26,15 @@ Esta compuesta de:
 - $: Indica el final de la cadena.
 
 *Demostracion*:
+
 ![image](https://github.com/UrielAhumada/Lenguajes_Automatas1/assets/160798678/6952fddc-ccce-46f1-b808-8c55690de002)
 
 ## Ejercicio 2
+
 Expresión Regular que valide un Nombre de usuario:
+
 Longitud de 3 a 16 caracteres
+
 Letra o numero o guion medio o bajo
 
 *Expresion*: ^[a-zA-Z0-9_-]{3,16}$
@@ -36,4 +46,5 @@ Esta compuesta de:
 - $: Indica el final de la cadena.
 
 *Demostracion*:
+
 ![image](https://github.com/UrielAhumada/Lenguajes_Automatas1/assets/160798678/ead916e8-2518-4504-838e-8e5593a3f57a)
