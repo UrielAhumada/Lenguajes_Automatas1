@@ -14,3 +14,5 @@ El contenido de este repositorio incluye:
 - [1.2 Fases de un compilador](Tema1/Tarea1.2.pdf)
 - [1.3 Historia Compiladores](Tema1/Tarea1.3.pdf)
 - [2.1 Expresiones Regulares](Tema2/Tarea2.1.md)
+- [2.2 ](Tema2/Tarea2.2.md)
+- [2.3 ](Tema2/Tarea2.3.md)
