@@ -16,3 +16,4 @@ El contenido de este repositorio incluye:
 - [2.1 Expresiones Regulares](Tema2/Tarea2.1.md)
 - [2.2 ](Tema2/Tarea2.2.md)
 - [2.3 ](Tema2/Tarea2.3.md)
+- [3.1 Ejercicios AFN](Tema3/Tarea3.1.md)
