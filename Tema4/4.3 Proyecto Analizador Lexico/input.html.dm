@@ -1,0 +1,17 @@
+<!--Archivo de prueba para el analizador lexico--> 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Página de Prueba</title>
+</head>
+<body>
+    <h1>Encabezado Principal</h1>
+    <p>Este es un párrafo.</p>
+    <div id="contenido" class="principal">
+        <span>Texto en span</span>
+        <!--Este es un comentario-->
+        <a href="https://ejemplo.com">Enlace</a>
+        <img src="imagen.jpg" alt="Descripción de la imagen">
+    </div>
+</body>
+</html>
