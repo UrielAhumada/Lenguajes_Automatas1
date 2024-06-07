@@ -24,3 +24,4 @@ El contenido de este repositorio incluye:
 - [5.1 Requerimiento de la Gramática](Tema5)
 - [5.2 Desarrollo de un Analizador Sintáctico para un Lenguaje de Programación Simple](Tema5)
 - [6.1 Mapa Conceptual de Máquinas de Turing](Tema6/Tarea6.1.md)
+- [6.2 Comentarios sobre la pelicula "The Imitation Game"](Tema6/Tarea6.2.md)
